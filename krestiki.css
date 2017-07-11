@@ -1,0 +1,28 @@
+td{ 
+    border:1px solid white;
+	width:50px;
+	height:50px;
+	font-size:40px;
+	color:blue;
+	text-align:center;
+	background-color:silver;
+	}
+table{
+	width:250px;
+	height:250px;
+	background-color:blue;
+	position:absolute;
+	top:160px;
+	left:500px
+
+}
+button{
+	position:absolute;
+	top:370px;
+	left:760px;
+	background:blue;
+	padding: 10px;
+	color:white;
+	font-size:30px;
+	border-radius:5px;
+}
